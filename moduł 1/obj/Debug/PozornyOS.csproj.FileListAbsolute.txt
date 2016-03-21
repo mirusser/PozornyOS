@@ -1,0 +1,15 @@
+C:\Users\Mirek\Desktop\moduł 1\bin\Debug\moduł 1.exe.config
+C:\Users\Mirek\Desktop\moduł 1\bin\Debug\moduł 1.exe
+C:\Users\Mirek\Desktop\moduł 1\bin\Debug\moduł 1.pdb
+C:\Users\Mirek\Desktop\moduł 1\obj\Debug\PozornyOS.csprojResolveAssemblyReference.cache
+C:\Users\Mirek\Desktop\moduł 1\obj\Debug\moduł 1.exe
+C:\Users\Mirek\Desktop\moduł 1\obj\Debug\moduł 1.pdb
+C:\Users\Mirek\Desktop\PozornySO\moduł 1\bin\Debug\moduł 1.exe.config
+C:\Users\Mirek\Desktop\PozornySO\moduł 1\obj\Debug\moduł 1.exe
+C:\Users\Mirek\Desktop\PozornySO\moduł 1\obj\Debug\moduł 1.pdb
+C:\Users\Mirek\Desktop\PozornySO\moduł 1\obj\Debug\PozornyOS.csprojResolveAssemblyReference.cache
+C:\Users\Mirek\Desktop\PozornySO\moduł 1\bin\Debug\moduł 1.exe
+C:\Users\Mirek\Desktop\PozornySO\moduł 1\bin\Debug\moduł 1.pdb
+G:\Tapety - puplit\studia_sem_3\SO\PozornySO\moduł 1\bin\Debug\moduł 1.exe.config
+G:\Tapety - puplit\studia_sem_3\SO\PozornySO\moduł 1\obj\Debug\moduł 1.exe
+G:\Tapety - puplit\studia_sem_3\SO\PozornySO\moduł 1\obj\Debug\moduł 1.pdb

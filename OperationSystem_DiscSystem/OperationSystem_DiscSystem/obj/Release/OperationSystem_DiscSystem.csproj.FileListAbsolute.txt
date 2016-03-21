@@ -1,0 +1,5 @@
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\bin\Release\OperationSystem_DiscSystem.exe.config
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\bin\Release\OperationSystem_DiscSystem.exe
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\bin\Release\OperationSystem_DiscSystem.pdb
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Release\OperationSystem_DiscSystem.exe
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Release\OperationSystem_DiscSystem.pdb

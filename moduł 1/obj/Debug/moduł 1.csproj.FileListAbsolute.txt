@@ -1,0 +1,18 @@
+c:\users\konrad\documents\visual studio 2015\Projects\moduł 1\moduł 1\bin\Debug\moduł 1.exe.config
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\obj\Debug\moduł 1.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\bin\Debug\moduł 1.exe
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\bin\Debug\moduł 1.pdb
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\obj\Debug\moduł 1.exe
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\obj\Debug\moduł 1.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\bin\Debug\moduł 1.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\obj\Debug\moduł 1.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\obj\Debug\moduł 1.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\bin\Debug\moduł 1.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\bin\Debug\moduł 1.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\moduł 1\moduł 1\obj\Debug\moduł 1.csprojResolveAssemblyReference.cache
+C:\Users\Mirek\Desktop\moduł 1\bin\Debug\moduł 1.exe.config
+C:\Users\Mirek\Desktop\moduł 1\obj\Debug\moduł 1.exe
+C:\Users\Mirek\Desktop\moduł 1\obj\Debug\moduł 1.pdb
+C:\Users\Mirek\Desktop\moduł 1\bin\Debug\moduł 1.exe
+C:\Users\Mirek\Desktop\moduł 1\bin\Debug\moduł 1.pdb
+C:\Users\Mirek\Desktop\moduł 1\obj\Debug\moduł 1.csprojResolveAssemblyReference.cache

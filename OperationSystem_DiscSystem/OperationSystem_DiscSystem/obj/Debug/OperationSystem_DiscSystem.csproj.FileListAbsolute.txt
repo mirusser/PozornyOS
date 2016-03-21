@@ -1,0 +1,15 @@
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\bin\Debug\OperationSystem_DiscSystem.exe.config
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\bin\Debug\OperationSystem_DiscSystem.exe
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\bin\Debug\OperationSystem_DiscSystem.pdb
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Debug\OperationSystem_DiscSystem.csprojResolveAssemblyReference.cache
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Debug\OperationSystem_DiscSystem.exe
+C:\Users\OverMorda\Documents\Visual Studio 2015\Projects\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Debug\OperationSystem_DiscSystem.pdb
+C:\Users\OverMorda\Desktop\Systemy operacyjne\Projekt\OperationSystem_DiscSystem\OperationSystem_DiscSystem\bin\Debug\OperationSystem_DiscSystem.exe.config
+C:\Users\OverMorda\Desktop\Systemy operacyjne\Projekt\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Debug\OperationSystem_DiscSystem.exe
+C:\Users\OverMorda\Desktop\Systemy operacyjne\Projekt\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Debug\OperationSystem_DiscSystem.pdb
+C:\Users\Mirek\Desktop\OperationSystem_DiscSystem\OperationSystem_DiscSystem\bin\Debug\OperationSystem_DiscSystem.exe.config
+C:\Users\Mirek\Desktop\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Debug\OperationSystem_DiscSystem.exe
+C:\Users\Mirek\Desktop\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Debug\OperationSystem_DiscSystem.pdb
+C:\Users\Mirek\Desktop\PozornySO\OperationSystem_DiscSystem\OperationSystem_DiscSystem\bin\Debug\OperationSystem_DiscSystem.exe.config
+C:\Users\Mirek\Desktop\PozornySO\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Debug\OperationSystem_DiscSystem.exe
+C:\Users\Mirek\Desktop\PozornySO\OperationSystem_DiscSystem\OperationSystem_DiscSystem\obj\Debug\OperationSystem_DiscSystem.pdb
